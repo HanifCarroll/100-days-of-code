@@ -49,3 +49,51 @@ In any case, I'll have to take some time to think about what I want to build. I'
 **Thoughts:** s3 storage is pretty handy. Reviewed some sorting algorithms for a bit, starting to get the hang of them. I also went through a couple Spring Boot videos, and I feel ready to make another application with it.
 
 **Link to Work:** [Discord Bot Django Server](https://github.com/HanifCarroll/Media-Logger-Django)
+
+### Day 4: September 21, 2018
+
+**Today's Progress**: Spent all evening implementing a pie chart view for the Media Logger. I also started a new blog application using Spring Boot.
+
+**Thoughts:** The charts took a bit longer than I expected due to not-so-great documentation, but I eventually figured it out.
+
+**Link to Work:** [Discord Media Logger Client](http://discord-media-log.s3-website.us-east-2.amazonaws.com)
+
+### Day 5: September 21, 2018
+
+**Today's Progress**: Practiced searching algorithms. Read a lot about job hunting. Worked on the Spring Boot blog project.
+
+**Thoughts:** I feel like I'm in a funny spot. I'm thinking I should scrap the Spring project and just make it in Node instead. I should be using this time to make things that potential employers will like, not necessarily struggling with new technologies. I can do that after I secure a job.
+
+**Link to Work:**
+
+### Day 6: September 21, 2018
+
+**Today's Progress**: Learned about system design, scaling, and algorithms.
+
+**Thoughts:** Gonna have to repeat this one. On Sunday I signed up for TripleByte and I made the questionable decision of scheduling my interview Tuesday morning. Checked what the interview would consist of, and there were a couple things I had practically 0 knowledge of. Namely system design and algorithms. Spent 8 hours learning about the former, where I feel like I made a big improvement. Then about 6 hours on the latter, which I don't think helped much. Regardless of outcome, looking forward to the feedback I get from the interview!
+
+**Link to Work:**
+
+### Day 6: September 21, 2018
+
+**Today's Progress**: TripleByte interview, worked on customer table view React app for job application.
+
+**Thoughts:** TripleByte interview went decently. Attempted to make a Trello-like board. Got stuck on some functionality, but I think I did fairly well on the technical questions. Later on, I started working on this small project for a job application. It's essentially a table view where you can search through the results. Got stuck trying to implement some things on my own, but luckily there were libraries to help me out.
+
+**Link to Work:**
+
+### Day 7: September 21, 2018
+
+**Today's Progress**: Finished application assignment from the recruiter.
+
+**Thoughts:** Finished things up this morning over a couple hours. I'm pretty happy with how it turned out. Also, started working on [this](https://github.com/jwasham/coding-interview-university) CS study guide. My goal is to eventually know enough to be a software engineer at a big N company, despite not having a CS degree.
+
+**Link to Work:** [Customer Table App](https://github.com/HanifCarroll/Customer-Table)
+
+### Day 8: September 21, 2018
+
+**Today's Progress**: Spoke with a successful SWE and received a ton of good advice. Read through some of The C Programming Language. Spent about an hour on Leetcode.
+
+**Thoughts:** Received a lot of direction and good advice today. Afterwards, I sat down and formulated a plan for myself that I'm really happy with.
+
+**Link to Work:**
