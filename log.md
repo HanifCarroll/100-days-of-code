@@ -97,3 +97,11 @@ In any case, I'll have to take some time to think about what I want to build. I'
 **Thoughts:** Received a lot of direction and good advice today. Afterwards, I sat down and formulated a plan for myself that I'm really happy with.
 
 **Link to Work:**
+
+### Day 9: September 21, 2018
+
+**Today's Progress**: Started the Hartl Rails tutorial, read the first chapter of The Algorithm Design Manual, practiced some algorithm problems on Firecode.io, and started a small CRUD project using Node, Express, and Knex/Objection.
+
+**Thoughts:** I remember when I first got into web development a year and a half ago, I had so much trouble going through the Rails tutorial, and I eventually stopped to start learning Node. Things should be more smooth this time, though. Really enjoying working with Node again on this CRUD app. It's just so fast, and easy to do things...once I remember how exactly to do them. I'm also excited to learn more about algorithms. The 1st chapter does a great job of explaining that there are different types of abstract problems that relate to the real-world problem you're facing; you just have to know the classification of that problem, then it's much easier to find a solution.
+
+**Link to Work:** [Cat App - Node](https://github.com/HanifCarroll/cat-app-node)
