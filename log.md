@@ -123,3 +123,75 @@ In any case, I'll have to take some time to think about what I want to build. I'
 Switching from Knex to Sequelize has been great so far. The Node app is coming along. I'll probably work on user login and authorization next.
 
 **Link to Work:** [Cat App - Node](https://github.com/HanifCarroll/cat-app-node)
+
+### Day 12: October 1, 2018
+
+**Today's Progress**: Started user register/login flow on the Node app, and finished chapter 3 of Rails tutorial.
+
+**Thoughts:** Really struggling with implementing user authentication.
+
+**Link to Work:** [Cat App - Node](https://github.com/HanifCarroll/cat-app-node)
+
+### Day 13: October 2, 2018
+
+**Today's Progress**: Finished chapter 4 of Rails tutorial, bookmarked a bunch of React best practices articles, and worked on my Node app.
+
+**Thoughts:** Almost went with Firebase Auth, but decided that I may as well use AWS's solution since AWS is everywhere these days.
+
+**Link to Work:** [Cat App - Node](https://github.com/HanifCarroll/cat-app-node)
+
+### Day 14: October 3, 2018
+
+**Today's Progress**: Worked on a branch of my node app (spent a bunch of time doing the wrong thing and ultimately getting nowhere), finished Rails tutorial chapter 5, and looked up/saved a bunch of React/Redux best practices/tips.
+
+**Thoughts:** Implementing user auth is hard. I don't remember it being like this, so I'm not sure what I'm doing wrong now. The Rails chapter wasn't very interesitng, so hopefully the next one picks up the pace. I'm finding some really good tips for React, though, so that's nice.
+
+**Link to Work:** [Cat App - Node](https://github.com/HanifCarroll/cat-app-node)
+
+### Day 15: October 4, 2018
+
+**Today's Progress**: (Kind of) implemented ratings in my Node app, finished another chapter of the Rails tutorial, and more reading on React topics.
+
+**Thoughts:** Probably gonna be done with this Node app soon. I want to get started practicing my React/RoR skills ASAP.
+
+**Link to Work:** [Cat App - Node](https://github.com/HanifCarroll/cat-app-node)
+
+### Day 16: October 5, 2018
+
+**Today's Progress**: Finished 3 chapters of the Rails tutorial.
+
+**Thoughts:** Didn't work on anything of my own, but I think I made up for it by going through those 3 chapters.
+
+**Link to Work:**
+
+### Day 17: October 6, 2018
+
+**Today's Progress**: Finished 3 more chapters of the Rails tutorial.
+
+**Thoughts:** Ok, this should be the last day that I only do tutorials. I have only 1 chapter left of the Rails tutorial, and then I'll be starting my work with React.
+
+**Link to Work:**
+
+### Day 18: October 7, 2018
+
+**Today's Progress**: Finished the Rails tutorial and started on my React project.
+
+**Thoughts:** Finally done with the Rails tutorial. Started a new project today, a notes app with React. Something that shouldn't be too challenging, but I have an opportunity to do it well, and make it look nice.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 19: October 8, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Started the notes app and added basic add and delete functionality.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 20: October 9, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Essentially restarted the notes app to make it look more like Google Keep. Finished adding, editing, and deleting note functionality.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
