@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0 (Technically day 2): September 20, 2018
+### Day 0: September 20, 2018
 
 I decided that it would be worthwhile to try and plan out some of my journey over the next 100 days.
 
@@ -195,3 +195,364 @@ Switching from Knex to Sequelize has been great so far. The Node app is coming a
 **Thoughts:** Essentially restarted the notes app to make it look more like Google Keep. Finished adding, editing, and deleting note functionality.
 
 **Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 21: October 10, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Added a few more features. Nothing crazy.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 22: October 11, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Added more features. It's really starting to come together! Also,discovered that my github commit history is a bit misleading since I've used a few different email addresses. Gonna have to fix that.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 23: October 12, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** More features. Writing this a day late, so I can't exactly recall what I did.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 24: October 13, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** First draft of the notes app is completed, and it's up on Netlify. There are still a few things I want to add like drag and drop reordering and clicking inside of a note title or content and placing the edit cursor there.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 25: October 14, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Spent about 2/3rds of the day trying to add drag and drop reordering, and failed. Scrapped it, and added an edit overlay instead.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 25: October 14, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Spent about 2/3rds of the day trying to add drag and drop reordering, and failed. Scrapped it, and added an edit overlay instead.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 26: October 15, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Refactored the notes app to be organized by feature/component building blocks rather than just components. Not necessary for this small of an app, but a good exercise to practice.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 27: October 16, 2018
+
+**Today's Progress**: Worked on Notes app.
+
+**Thoughts:** Spent the day reviewing a refactor that another developer did of my app using the render props pattern. Took a lot of time to go through each component and see exactly what was happening, and learned a ton in the process!
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 28: October 17, 2018
+
+**Today's Progress**: Finished refactoring notes app.
+
+**Thoughts:** Finished refactoring my notes app to make use of the "render props" pattern. The concept is still a bit shaky to me, but I'm starting to get it, and I'm seeing how nice declarative style programming is.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 29: October 18, 2018
+
+**Today's Progress**: Add feature to notes app.
+
+**Thoughts:** Finally figured out how to add a feature of the notes app where I can focus an input after I click on text and change it to an input. This required me to learn about how refs work. I also started adding TypeScript into the app.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 30: October 19, 2018
+
+**Today's Progress**: Attempt to convert notes app to TypeScript
+
+**Thoughts:** Had to wade through a ton of errors, and ultimately ended up failing. On the plus side, I learned a lot about how to use TS.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 31: October 20, 2018
+
+**Today's Progress**: Watch TypeScript course and read articles.
+
+**Thoughts:** A day of learning.
+
+**Link to Work:**
+
+### Day 32: October 21, 2018
+
+**Today's Progress**: Tried to get ReactCSSTransitionGroup to work with notes.
+
+**Thoughts:** Didn't work. Also, started the new version of my portfolio with React. Trying to migrate away from Wordpress.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 33: October 22, 2018
+
+**Today's Progress**: Started on portfolio.
+
+**Thoughts:** Started the portfolio migration today
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 34: October 23, 2018
+
+**Today's Progress**: Worked on portfolio.
+
+**Thoughts:** Added reactstrap to the project. Things are starting to look pretty good, I've got it nearly looking like the old site.
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 35: October 24, 2018
+
+**Today's Progress**: Finished transferring portfolio.
+
+**Thoughts:** Finished recreating my WordPress portfolio in React. Got it up on Netlify and the custom domain all set-up.
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 36: October 25, 2018
+
+**Today's Progress**: Fixed bug in notes app. Started reading Clean Code. Starting using/learning Tmux and Vim(again).
+
+**Thoughts:** Lots of new beginnings.
+
+**Link to Work:** https://github.com/HanifCarroll/notes
+
+### Day 37: October 26, 2018
+
+**Today's Progress**: Switched from bash to zsh and started a new project, a blog site. 
+
+**Thoughts:** The blog will use Java/Spring Boot on the backend and React/Next.js for the frontend.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-java
+
+### Day 38: October 27, 2018
+
+**Today's Progress**: Two more chapters of Clean Code, and worked on Java blog.
+
+**Thoughts:** Finished the REST endpoints for posts.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-java
+
+### Day 39: October 28, 2018
+
+**Today's Progress**: Two more chapters of Clean Code, worked on workout log script, and 1 section of spring course.
+
+**Thoughts:** Cleaning the log is proving to be harder than I expected, but it's getting there.  Also, this Spring course is pretty good.  I can tell that I'll be learning a lot.
+
+**Link to Work:**
+
+### Day 40: October 29, 2018
+
+**Today's Progress**: 2 more chapters of Clean Code, 1 section of Spring course, and made a basic CRUD app with Spring Boot and Thymeleaf. 
+
+**Thoughts:** Nearly done with the book, so that's cool.  Getting more familiar with Thymeleaf thanks to the course and my little side project for tonight.  It's not the worst thing in the world, but I'd much rather just create an API and use React.
+
+**Link to Work:** https://github.com/HanifCarroll/spring-boot-thymeleaf-demo
+
+### Day 41: October 30, 2018
+
+**Today's Progress**: 3 more chapters of Clean Code, 1 section of Spring course, and added functionality to java blog app.
+
+**Thoughts:** The blog app is starting to come together.  Created users and associated them with posts, and finally figured out how I can break out of the Jackson JSON infinite loop when displaying them.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-java
+
+### Day 42: October 31, 2018
+
+**Today's Progress**: Finished Clean Code, 1 section of Spring course, and added more features to blog.
+
+**Thoughts:** Nearly done with the backend.  Running into a snag with another Jackson infinite loop, but hopefully I'll get to the bottom of it soon.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-java
+
+### Day 43: November 1, 2018
+
+**Today's Progress**: Finished Comments entity, and extracted createdAt, updatedAt, and id fields to a BaseEntity.
+
+**Thoughts:** Starting to get the hang of the JPA/hibernate annotations.  Spring Boot is actually pretty neat.  Can't wait to start using Project Lombok; that'll clean things up a lot.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-java
+
+### Day 44: November 2, 2018
+
+**Today's Progress**: Finish section of Spring course and start NextJS project.
+
+**Thoughts:** Ran into some problems trying to create a Next.js project from scratch, but luckily there's a create-next-app that worked perfectly.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-client 
+
+### Day 45: November 3, 2018
+
+**Today's Progress**: Learned about JUnit, tweaked Blog server, and added functionality to Blog client.
+
+**Thoughts:** Starting to get the hang of NextJS.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-client 
+
+### Day 46: November 4, 2018
+
+**Today's Progress**: Went through a big runaround with securing the spring api, to no avail.  Started practicing algorithm and SQL questions on Hackerrank.
+
+**Thoughts:** I really don't like algorithms.  SQL is pretty nifty, though.
+
+**Link to Work:** https://github.com/HanifCarroll/blog-java
+
+### Day 47: November 5, 2018
+
+**Today's Progress**: Did a little bit on Hackerrank, started Cracking the Coding Interview, and played with Three.js a little bit.
+
+**Thoughts:** Nothing to add.
+
+**Link to Work:** 
+
+### Day 48: November 6, 2018
+
+**Today's Progress**: Some Hackerrank, did my first coding interview, watched a video of the Spring course.
+
+**Thoughts:** Interview went really well!  Now I just have to think of my next project.
+
+**Link to Work:** 
+
+### Day 49: November 7, 2018
+
+**Today's Progress**: Started working with HTML5 canvas and had a phone interview.
+
+**Thoughts:** Interview went great, and I've really been having a good time with Canvas. 
+
+**Link to Work:** https://github.com/HanifCarroll/canvas-tutorial 
+
+### Day 50: November 8, 2018
+
+**Today's Progress**: More work with canvas.
+
+**Thoughts:** Added a bit to my first canvas project, and started my second one with gravity.
+
+**Link to Work:** https://github.com/HanifCarroll/canvas-tutorial 
+
+### Day 51: November 9, 2018
+
+**Today's Progress**: More work with canvas.
+
+**Thoughts:** Finished another canvas tutorial/project, and started a couple more.
+
+**Link to Work:** https://github.com/HanifCarroll/canvas-gravity 
+
+### Day 52: November 10, 2018
+
+**Today's Progress**: Collision detection with canvas and readings on algorithms.
+
+**Thoughts:** Learned about complete search, greedy algorithms, and dynamic programming.
+
+**Link to Work:** https://github.com/HanifCarroll/canvas-collision 
+
+### Day 53: November 11, 2018
+
+**Today's Progress**: Circular motion with canvas and started reworking my portfolio.
+
+**Thoughts:** Finished the canvas tutorials for now.  Gonna start working on my portolio and try to practice some canvas stuff on my own on the side.
+
+**Link to Work:** https://github.com/HanifCarroll/canvas-circular-motion 
+
+### Day 54: November 12, 2018
+
+**Today's Progress**: Modifed my portfolio.
+
+**Thoughts:** Portfolio is starting to look decent.
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 55: November 13, 2018
+
+**Today's Progress**: Modifed my portfolio.
+
+**Thoughts:** Changed a few things and got a ton of feedback for things to implement tomorrow.
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 56: November 14, 2018
+
+**Today's Progress**: Finished Portfolio modifications.
+
+**Thoughts:** Implemented the changes that were recommended to me.  Portfolio is looking so much better, and I'm really happy with it!
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 57: November 15, 2018
+
+**Today's Progress**: Learned about and practiced sorting algorithms.
+
+**Thoughts:** bubble sort, selection sort, and insertion sort.
+
+**Link to Work:** 
+
+### Day 58: November 16, 2018
+
+**Today's Progress**: Learned about shell sort.
+
+**Thoughts:** Just like insertion sort, sort of confusing, so I"ll hae to work on it."
+
+**Link to Work:** 
+
+### Day 59: November 18, 2018
+
+**Today's Progress**: Took quizzes on Upwork for HTML, CSS, JavaScript, and WordPress. Finished sorting algorithms in Java.
+
+**Thoughts:** The quizzes allowed me to test and exand my knowledge of the subjects, so that was nice. 
+
+**Link to Work:** 
+
+### Day 60: November 19, 2018
+
+**Today's Progress**: Small updates on portfolio site, and spent way too much time coming up with my next project.
+
+**Thoughts:** 
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 61: November 20, 2018
+
+**Today's Progress**: Started a new project, a react app that tells the sunset/sunrise time in a given area.
+
+**Thoughts:** 
+
+**Link to Work:** https://github.com/hanifcarroll/sun-times 
+
+### Day 62: November 21, 2018
+
+**Today's Progress**: More on sun-times project.
+
+**Thoughts:** Dealing with the geocoding, reverse geocoding, and timezone translations were much harder than expected.
+
+**Link to Work:** https://github.com/HanifCarroll/guiding-hands
+
+### Day 63: November 22, 2018
+
+**Today's Progress**: Started working on a family friend's website that I offered to make.
+
+**Thoughts:** As usual, designing things is hard. 
+
+**Link to Work:** https://github.com/HanifCarroll/guiding-hands
+
+### Day 64: November 23, 2018
+
+**Today's Progress**: More work on the site.
+
+**Thoughts:** It looks OK, but it's still missing something to make it look special.
+
+**Link to Work:** https://github.com/hanifcarroll/sun-times 
+
