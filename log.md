@@ -554,5 +554,253 @@ Switching from Knex to Sequelize has been great so far. The Node app is coming a
 
 **Thoughts:** It looks OK, but it's still missing something to make it look special.
 
-**Link to Work:** https://github.com/hanifcarroll/sun-times 
+**Link to Work:** https://github.com/HanifCarroll/guiding-hands
+
+### Day 65: November 24, 2018
+
+**Today's Progress**: More work on the site.
+
+**Thoughts:** Launched it, then continued to work on it.
+
+**Link to Work:** https://github.com/HanifCarroll/guiding-hands
+
+### Day 66: November 25, 2018
+
+**Today's Progress**: More work on the site, and continued work on sun-times.
+
+**Thoughts:** Added a nice darkened image overlayon the site and made a lot of improvement on sun-times.
+
+**Link to Work:** https://github.com/HanifCarroll/guiding-hands
+
+### Day 67: November 26, 2018
+
+**Today's Progress**: Minor fixes on guiding-hands site and learned some SQL basics.
+
+**Thoughts:** 
+
+**Link to Work:** https://github.com/HanifCarroll/guiding-hands
+
+### Day 68: November 27, 2018
+
+**Today's Progress**: Started new interview assignment.
+
+**Thoughts:** Making a stopwatch that can have multiple instances with HTML, CSS, and JavaScript.
+
+**Link to Work:** https://github.com/HanifCarroll/stopwatch
+
+### Day 69: November 28, 2018
+
+**Today's Progress**: Created/organized a bunch of flash cards for a few different categories and had a pair programming Java interview.
+
+**Thoughts:** Interview went well, much easier than expected.
+
+**Link to Work:** 
+
+### Day 70: November 29, 2018
+
+**Today's Progress**: Continued the interview assignment.
+
+**Thoughts:** Finished the functionality and did a lot of work on the styling.
+
+**Link to Work:** https://github.com/HanifCarroll/stopwatch
+
+### Day 71: November 30, 2018
+
+**Today's Progress**: Continued the interview assignment.
+
+**Thoughts:** Got a LOT done with styling.  I'm satisfied with how it looks, and I'm going to go on to the write-up for the assignment.
+
+**Link to Work:** https://github.com/HanifCarroll/stopwatch
+
+### Day 72: December 1, 2018
+
+**Today's Progress**: Finished the interview assignment.
+
+**Thoughts:** 
+
+**Link to Work:** https://github.com/HanifCarroll/stopwatch
+
+### Day 73: December 2, 2018
+
+**Today's Progress**: Updated portfolio to include stopwatch.
+
+**Thoughts:** 
+
+**Link to Work:** https://github.com/HanifCarroll/portfolio-v4
+
+### Day 74: December 3, 2018
+
+**Today's Progress**: Modified sun-times and added it to my portfolio.
+
+**Thoughts:** 
+
+**Link to Work:** https://github.com/HanifCarroll/sun-times
+
+### Day 75: December 6, 2018
+
+**Today's Progress**: Messed around trying to make some python scripts/a flask app.  
+
+**Thoughts:** Really at a loss as to what I should do for my next project.
+
+**Link to Work:** 
+
+### Day 76: December 7, 2018
+
+**Today's Progress**: Messed around with Okta, Firebase Auth, and Auth0 for my spring boot app. Didn't work.
+
+**Thoughts:** 
+
+**Link to Work:** 
+
+### Day 77: December 8, 2018
+
+**Today's Progress**: Started a new Java application.  
+
+**Thoughts:** Instead of using React, I'm using Thymeleaf, just to get some practice with fullstack Java.  Going decently well so far.
+
+**Link to Work:** https://github.com/HanifCarroll/java-topics
+
+### Day 78: December 9, 2018
+
+**Today's Progress**: Added a lot to my full-stack Java app.
+
+**Thoughts:** Getting more comfortable with templating languages in general.
+
+**Link to Work:** https://github.com/HanifCarroll/java-topics
+
+### Day 79: December 10, 2018
+
+**Today's Progress**: More work on Java app.
+
+**Thoughts:** Spent a lot of time fixing a bug with the comments.  
+
+**Link to Work:** https://github.com/HanifCarroll/java-topics
+
+### Day 80: December 11, 2018
+
+**Today's Progress**: More work on Java app.
+
+**Thoughts:** Worked on the portfolio a little bit.
+
+**Link to Work:** https://github.com/HanifCarroll/hc-portfolio
+
+### Day 81: December 14, 2018
+
+**Today's Progress**: Technical interview.
+
+**Thoughts:** Had a technical interview for a position.  I was asked how I would debug a number of things on a couple of JSFiddles.
+
+**Link to Work:** 
+
+### Day 82: December 15, 2018
+
+**Today's Progress**: Orientation with and starting on new contract project.
+
+**Thoughts:** My first real-world codebase.  It still seems relatively new, so there's probably not as much code as usual, but it's still more than I've ever dealt with.
+
+**Link to Work:** 
+
+### Day 83: December 16, 2018
+
+**Today's Progress**: Worked on 3 small tickets for the contract project.
+
+**Thoughts:** Went pretty smoothly.  The first one took some time, because I had to understand all the moving parts, but it was fun.
+
+**Link to Work:** 
+
+### Day 84: December 17, 2018
+
+**Today's Progress**: Worked on a small ticket and then on the geospatial search.
+
+**Thoughts:** Geospatial work is pretty tough, but I think we're getting there.
+
+**Link to Work:** 
+
+### Day 85: December 18, 2018
+
+**Today's Progress**: More work on polygon search feature, but we're making progress.
+
+**Thoughts:** Also added a couple more things to a few other fixes I had made.
+
+**Link to Work:** 
+
+### Day 86: December 19, 2018
+
+**Today's Progress**: More work on polygon search.
+
+**Thoughts:** Things aren't looking good.
+
+**Link to Work:** 
+
+### Day 87: December 20, 2018
+
+**Today's Progress**: More work on polygon search.
+
+**Thoughts:** After today, we're going to have to come up with a new way to solve this problem.
+
+**Link to Work:** 
+
+### Day 88: December 21, 2018
+
+**Today's Progress**: Tried approaching the problem another way, and found out that it's not supported, so back to the drawing board.
+
+**Thoughts:** 
+
+**Link to Work:** 
+
+### Day 89: December 23, 2018
+
+**Today's Progress**: Finally solved the problem with the project.  
+
+**Thoughts:** I can't believe I did it.
+
+**Link to Work:** 
+
+### Day 90: December 26, 2018
+
+**Today's Progress**: Looked through the codebase to learn about how authentication and account management works. 
+
+**Thoughts:** Might be doing a big change in the future, so this research was to prepare for that.
+
+**Link to Work:** 
+
+### Day 91: December 27, 2018
+
+**Today's Progress**: I was asked to make some changes/fixes to a WordPress site.
+
+**Thoughts:** It was easy enough, but some things I couldn't get done.  I think the site might be corrupted.
+
+**Link to Work:** 
+
+### Day 92: December 28, 2018
+
+**Today's Progress**: Made a script with Python that took all of my Tumblr journal posts in XML form and made them into their own markdown files. 
+
+**Thoughts:** Took 2-3 hours, wasn't too painful.
+
+**Link to Work:** 
+
+### Day 93: December 29, 2018
+
+**Today's Progress**: Made another Python script to organize all the blog posts into the correct folders in my journal folder.
+
+**Thoughts:** 
+
+**Link to Work:** 
+
+### Day 94: December 30, 2018
+
+**Today's Progress**: More work on that WordPress site from a few days ago. 
+
+**Thoughts:** Fixed the problem with the editor.  It was because of the Gutenburg update.
+
+**Link to Work:** 
+
+### Day 95: January 3, 2019
+
+**Today's Progress**: Made a bunch of new flash cards for Java and made a small change on a site for a family friend.
+
+**Thoughts:** Running out of things to do before the new job starts.
+
+**Link to Work:** 
 
